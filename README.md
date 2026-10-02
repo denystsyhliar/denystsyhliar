@@ -1,16 +1,19 @@
-## Hi there 👋
+# Denys Tsyhliar
+### Software Engineering Student | C++ & Systems Enthusiast
 
-<!--
-**denystsyhliar/denystsyhliar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year Software Engineering student with a strong focus on internal architecture, backend logic, and system-level control. I prefer writing clean, memory-efficient code and understanding how systems operate under the hood rather than just utilizing high-level abstractions.
 
-Here are some ideas to get you started:
+## ⚙️ Tech Stack & Tools
+*   **Core Languages:** C++, Python
+*   **Architecture & Paradigms:** Object-Oriented Programming (OOP), Data Structures
+*   **Libraries:** Standard Template Library (STL)
+*   **OS & Environments:** Linux, Windows (MSYS2)
+*   **Automation & Scripting:** TCL, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus & Learning
+*   Deepening knowledge of **C++ internal mechanics**, focusing on dynamic memory allocation and efficient STL vector utilization.
+*   Exploring external system control and process automation using **TCL**.
+*   Designing and maintaining robust infrastructure, including advanced **Minecraft server configurations** (optimizing Paper/Fabric environments, implementing anti-xray mechanisms, and managing server resources).
+
+## 📫 Connect with me
+*   **Email:** [tsyhliardenys@tnty.edu.ua]
