@@ -17,3 +17,9 @@ I am a second-year Software Engineering student with a strong focus on internal 
 
 ## 📫 Connect with me
 *   **Email:** [tsyhliardenys@tnty.edu.ua]
+---
+## 📊 System Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denystsyhliar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denystsyhliar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+</p>
